@@ -9,32 +9,27 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512.png" width="48" height="48" alt="Rust" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/golang/website/master/go/assets/images/gopher.png" width="48" height="48" alt="Golang" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
       <br>Golang
     </td>    
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=clang" width="48" height="48" alt="Clang" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       <br>C (Clang)
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lisp/lisp-original.svg" width="48" height="48" alt="Common Lisp" />
-      <br>Common Lisp
     </td>
   </tr>
 </table>
-
 ### Notable Projects
 
 - **[Collatz](https://github.com/mio-dokuhaki/Collatz)**: A Rust implementation of the Collatz conjecture.
