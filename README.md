@@ -9,13 +9,17 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+        <img src="https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="96">
+        <img src="https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg" width="48" height="48" alt="Golang" />
+      <br>Golang
+    </td>    
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=clang" width="48" height="48" alt="Clang" />
       <br>C (Clang)
-    </td>    
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
       <br>C++
@@ -25,7 +29,7 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-lisp-plain.svg" width="48" height="48" alt="Common Lisp" />
+        <img src="https://devicon.dev/icons/lisp/lisp-original.svg" width="48" height="48" alt="Common Lisp" />
       <br>Common Lisp
     </td>
   </tr>
