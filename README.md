@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rust_programming_language_black_logo.svg" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="96">
@@ -30,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 ### Notable Projects
 
 - **[Collatz](https://github.com/mio-dokuhaki/Collatz)**: A Rust implementation of the Collatz conjecture.
