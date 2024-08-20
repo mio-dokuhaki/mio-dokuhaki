@@ -9,11 +9,11 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg" width="48" height="48" alt="Rust" />
+        <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512.png" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
     <td align="center" width="96">
-        <img src="https://commons.wikimedia.org/wiki/File:Go_Logo_Blue.svg" width="48" height="48" alt="Golang" />
+        <img src="https://raw.githubusercontent.com/golang/website/master/go/assets/images/gopher.png" width="48" height="48" alt="Golang" />
       <br>Golang
     </td>    
     <td align="center" width="96">
@@ -29,7 +29,7 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://devicon.dev/icons/lisp/lisp-original.svg" width="48" height="48" alt="Common Lisp" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lisp/lisp-original.svg" width="48" height="48" alt="Common Lisp" />
       <br>Common Lisp
     </td>
   </tr>
