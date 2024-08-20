@@ -6,32 +6,32 @@
 
 <h3 align="center" font-size='25px'>My Favorite Tools and Technologies</h3>
 
-<table align="center">
+<table align="center" style="border-radius: 15px; width: 80%; border: 2px solid #e1e4e8; padding: 10px;">
   <tr>
-    <td align="center" width="96">
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rust_programming_language_black_logo.svg" width="48" height="48" alt="Rust" />
+    <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rust_programming_language_black_logo.svg" width="60" height="60" alt="Rust" />
       <br>Rust
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+    <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" height="60" alt="Golang" />
       <br>Golang
     </td>    
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+    <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C" />
       <br>C (Clang)
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+    <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
       <br>C++
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+    <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+    <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Vue.js" />
       <br>Vue.js
     </td>
   </tr>
