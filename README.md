@@ -47,7 +47,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mio-dokuhaki&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Mio's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=mio-dokuhaki&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Mio Dokuhaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mio-dokuhaki&show_icons=true&theme=transparent)](#)
 
 [![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mio-dokuhaki&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
