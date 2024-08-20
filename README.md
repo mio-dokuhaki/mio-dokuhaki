@@ -51,7 +51,7 @@
 
 [![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mio-dokuhaki&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Mio Dokuhaki's Current Streak](https://streak-stats.demolab.com/?user=mio-dokuhaki&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mio-dokuhaki&theme=tokyonight-duo&mode=weekly)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
