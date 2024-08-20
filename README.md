@@ -51,6 +51,16 @@
       <br>Bootstrap
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-lisp-plain.svg" width="48" height="48" alt="Lisp" />
+      <br>Lisp
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-lisp-plain.svg" width="48" height="48" alt="Common Lisp" />
+      <br>Common Lisp
+    </td>
+  </tr>
 </table>
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mio-dokuhaki&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
