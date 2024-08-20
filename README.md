@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+to+my+GitHub!;Mio+Dokuhaki+-+Tech+Enthusiast!;Check+out+my+Repositories!;Hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Welcome to my GitHub">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mio-dokuhaki&label=Profile%20views&color=0e75b6&style=flat" alt="mio-dokuhaki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mio-dokuhaki&label=Profile%20views&color=0e75b6&style=plastic" alt="mio-dokuhaki" /> </p>
 
 <h3 align="center" font-size='25px'>My Favorite Tools and Technologies</h3>
 
